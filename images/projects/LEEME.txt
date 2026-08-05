@@ -1,0 +1,14 @@
+IMAGENES DE PROYECTOS
+======================
+Pon aqui tus fotos con estos nombres EXACTOS (minusculas, sin espacios ni tildes), extension .jpeg:
+
+  casa-sal.jpeg          -> P-01 Casa Sal (Mancora)
+  refugio-colan.jpeg     -> P-02 Refugio Colan
+  casa-algarrobo.jpeg    -> P-03 Casa Algarrobo
+  pabellon-duna.jpeg     -> P-04 Pabellon Duna
+  casa-terral.jpeg       -> P-05 Casa Terral
+  estudio-norte.jpeg     -> P-06 Estudio Norte
+  casa-cabo.jpeg         -> P-07 Casa Cabo
+  casa-tierra.jpeg       -> P-08 Casa Tierra
+
+Formato recomendado: horizontal (4:3). No necesitas recortarlas, la web las ajusta sola.

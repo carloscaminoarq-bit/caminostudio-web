@@ -1,0 +1,10 @@
+FOTOS DEL EQUIPO
+==================
+Pon aqui tus fotos con estos nombres EXACTOS (minusculas, sin espacios ni tildes), extension .jpeg:
+
+  osiris.jpeg       -> Osiris (fundador)
+  miembro-a.jpeg    -> segundo miembro del equipo
+  miembro-b.jpeg    -> tercer miembro del equipo
+  miembro-c.jpeg    -> cuarto miembro del equipo
+
+Formato recomendado: vertical / retrato (3:4).

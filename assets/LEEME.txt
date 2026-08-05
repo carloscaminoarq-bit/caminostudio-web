@@ -1,0 +1,7 @@
+ASSETS
+=======
+Carpeta libre para archivos de marca que no son fotos de proyecto:
+favicon.ico, logo.svg, PDFs descargables (brochure, manual), etc.
+
+Si agregas un favicon, enlázalo en index.html dentro de <head> con:
+<link rel="icon" href="assets/favicon.ico">
